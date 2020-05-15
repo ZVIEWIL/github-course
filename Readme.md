@@ -16,7 +16,7 @@
 
 
 
-[![Everything Is AWESOME](![youtube](https://user-images.githubusercontent.com/54503903/82103467-7e602d00-96e9-11ea-9cce-20312385eacf.jpg)](https://youtu.be/CQHUWNFfv5M)
+[![Everything Is AWESOME](https://user-images.githubusercontent.com/54503903/82102755-e82b0780-96e6-11ea-8c23-2955131a222f.jpg)](https://youtu.be/CQHUWNFfv5M)
 
 ## Introdução:
 
